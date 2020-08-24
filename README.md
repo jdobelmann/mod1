@@ -20,11 +20,11 @@ Before the FOSS movement began gaining traction, proprietary software ruled the 
 
 ![blender](https://www.blender.org/wp-content/uploads/2019/07/blender_render.jpg)
 
-Blender.  From blender.org
+Blender.  From [blender.org](https://blender.org)
 
 ![hmlinux](http://hannahmontana.sourceforge.net/Site/Home_files/hml.2.jpg)
 
-Hannah Montana Linux.  From hannahmontana.sourceforge.net
+Hannah Montana Linux.  From [hannahmontana.sourceforge.net](http://hannahmontana.sourceforge.net)
 ## Contributing to FOSS Projects
 Another great thing about FOSS is that it encourages collaboration.  If you have a problem with a piece of software or want a new feature, you don't have to wait around for the developers to change it.  You can fix the bug or add the feature yourself and then contribute that change back to the project!
 
