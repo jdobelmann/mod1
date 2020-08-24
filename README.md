@@ -1,15 +1,30 @@
-# my-first-repo
-This is my first repo
-Joseph Dobelmann
+# Joseph Dobelmann - Open Source Enthusiast
+My name is Joseph Dobelmann.  I am an open source enthusiast and would like to take a moment to tell you a little bit about free and open source software
+## What is Free and Open Source Software?
+Free and Open Source Software (or FOSS) is software that gives you permission to examine the source code, make changes to the source code, and redistribute the changes that you made to the source code.
+## Why does it matter?
+Before the FOSS movement began gaining traction, proprietary software ruled the computer world.  Proprietary software forbids you from looking at the source code and making changes to it.  In other words, you have to play by the developer's rules.  Developers of free and open source software, however, believe computer users should be free to use their computers and the software that runs on them however they wish.  FOSS gives users the freedom to examine and modify the source code, things that are unheard of in the proprietary world.
+## Brief list of some popular FOSS projects
+* Blender
+* VLC
+* OpenSSH
+* Libreoffice
+* Linux (and various Linux distributions)
+  * Debian
+  * Ubuntu
+  * Fedora
+  * Arch
+  * Slackware
+  * Hannah Montana Linux
+* TempleOS
+## Contributing to FOSS Projects
+Another great thing about FOSS is that it encourages collaboration.  If you have a problem with a piece of software or want a new feature, you don't have to wait around for the developers to change it.  You can fix the bug or add the feature yourself and then contribute that change back to the project!
 
-Loves:
+Here's how you do it:
 
-* Linux
-* GNU
-* GNU/Linux
+1. Open an issue (this will allow everyone to discuss the bug or feature)
+2. Clone the git repo to your personal computer
+3. Make the change
+4. Open a pull request
 
-Headings
-## Section 1
-Stuff
-## Section 2
-More stuff
+If the maintainers notices any problems with your pull request, they will be sure to give you notes so that you know what you need to improve.  If, however, they accept your pull request, I would like to be the first to congratulate you on successfully contributing to a FOSS project!
